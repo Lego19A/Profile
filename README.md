@@ -13,11 +13,10 @@ I'm enthusiastic about technology and love solving complex problems through code
 
 ## 💻 Technical Skills
 
-- **Languages**: JavaScript, Python, Java, TypeScript
-- **Frontend**: React, Vue.js, HTML5, CSS3
-- **Backend**: Node.js, Express, Django
-- **Databases**: PostgreSQL, MongoDB, MySQL
-- **Tools & Technologies**: Git, Docker, AWS, REST APIs
+- **Languages**: JavaScript, Python
+- **Frontend**: HTML5, CSS3
+- **Backend**: PHP
+- **Databases**: MySQL
 
 ## 🌟 Featured Projects
 
@@ -36,7 +35,6 @@ Here are some of my favorite projects:
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-handle)
 - 📧 [Email](mailto:your-email@example.com)
 - 🌐 [Portfolio](https://your-portfolio.com)
 
