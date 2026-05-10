@@ -22,31 +22,14 @@ I'm enthusiastic about technology and love solving complex problems through code
 
 Here are some of my favorite projects:
 
-- [**JomBus: Online Transport Booking System**](https://github.com/Lego19A/Transportation-System) - Brief description of what it does
-- [**Project 2**](https://github.com/Lego19AFirst/project2) - Brief description of what it does
-- [**Project 3**](https://github.com/Lego19AFirst/project3) - Brief description of what it does
+- [**JomBus: Online Transport Booking System**](https://github.com/Lego19A/Transportation-System)
+- [**Python Hybrid Cryptographic System for Secure LAN Communication**](https://github.com/Lego19A/Python-Hybrid-Cryptographic-System-for-Secure-LAN-Communication) 
+- [**Project 3**](https://github.com/Lego19AFirst/project3) 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lego19AFirst&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lego19AFirst&layout=compact&theme=dark)
-
-## 🤝 Let's Connect
+## 🤝 Social Media
 
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
 - 📧 [Email](mailto:your-email@example.com)
 - 🌐 [Portfolio](https://your-portfolio.com)
-
-## 📝 Recent Activity
-
-I'm actively contributing to various projects and sharing my knowledge through:
-- Writing technical blog posts
-- Contributing to open-source projects
-- Participating in code reviews and discussions
-
----
-
-⭐ If you find my work interesting, feel free to star my repositories and reach out to collaborate!
 
 *Last updated: 2026-05-10*
