@@ -28,7 +28,7 @@ Here are some of my favorite projects:
 
 ## 🤝 Social Media
 
-- 💼 [LinkedIn](linkedin.com/in/anas-ahmed-593b2a359)
+- 💼 [LinkedIn](www.linkedin.com/in/anas-ahmed-593b2a359)
 - 📧 [Email](mailto:anas2005h.AH@gmail.com)
 
 *Last updated: 2026-05-10*
