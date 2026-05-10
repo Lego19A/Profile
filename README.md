@@ -22,7 +22,7 @@ I'm enthusiastic about technology and love solving complex problems through code
 
 Here are some of my favorite projects:
 
-- [**Project 1**](https://github.com/Lego19A/Transportation-System) - Brief description of what it does
+- [**JomBus: Online Transport Booking System**](https://github.com/Lego19A/Transportation-System) - Brief description of what it does
 - [**Project 2**](https://github.com/Lego19AFirst/project2) - Brief description of what it does
 - [**Project 3**](https://github.com/Lego19AFirst/project3) - Brief description of what it does
 
