@@ -24,7 +24,7 @@ Here are some of my favorite projects:
 
 - [**JomBus: Online Transport Booking System**](https://github.com/Lego19A/Transportation-System)
 - [**Python Hybrid Cryptographic System for Secure LAN Communication**](https://github.com/Lego19A/Python-Hybrid-Cryptographic-System-for-Secure-LAN-Communication) 
-- [**Project 3**](https://github.com/Lego19AFirst/project3) 
+- [**Doctor Appointment System**](https://github.com/Lego19A/Doctor-Appointment-System) 
 
 ## 🤝 Social Media
 
