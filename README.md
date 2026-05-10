@@ -26,9 +26,8 @@ Here are some of my favorite projects:
 - [**Python Hybrid Cryptographic System for Secure LAN Communication**](https://github.com/Lego19A/Python-Hybrid-Cryptographic-System-for-Secure-LAN-Communication) 
 - [**Doctor Appointment System**](https://github.com/Lego19A/Doctor-Appointment-System) 
 
-## 🤝 Social Media
+## 🤝 Contact
 
-- 💼 [LinkedIn](https://linkedin/in/anas-ahmed-593b2a359)
 - 📧 [Email](mailto:anas2005h.AH@gmail.com)
 
 *Last updated: 2026-05-10*
